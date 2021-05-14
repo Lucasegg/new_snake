@@ -1,0 +1,20 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #aaa;
+    color: rgb(80, 8, 8);
+}
+
+h1{
+    font-family:cursive;
+    font-size: 50px;
+}
+#snake{
+    border-radius: 50px;
+    border: 10px solid rgba(80, 8, 8, 0.80);
+}
+
